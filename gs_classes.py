@@ -1,13 +1,9 @@
 
 import numpy as np
 import matplotlib.pyplot as plt
-import time 
-import cv2 
 from tqdm import tqdm
 
 from gs_functions import *
-
-import csv
 
 class Vertex:
     """

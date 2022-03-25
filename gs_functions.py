@@ -1,8 +1,5 @@
 import math
 import numpy as np
-import collections
-from scipy.sparse import coo_matrix
-from scipy.sparse import csc_matrix
 from scipy.sparse import csr_matrix
 from scipy.sparse.linalg import spsolve
 from numpy.linalg import inv
