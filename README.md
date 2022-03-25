@@ -1,6 +1,5 @@
-# LS_HOTSPOT_SLAM
+# Graph-based optimization SLAM
 
-graph-based SLAM optimization to determine hotspots in environment
+graph-based SLAM optimization to determine robot positions and feature locations.
 
-Possible optimization:
--> initial guess of hotspot on locationi of highest measurement with the measurement value as initial intensity
+The aim is to provide code for easy understanding of the graph-based optimization using 'standard' python packages. 
